@@ -5,3 +5,4 @@
 [ langchain 中文文档]( https://langchain-doc.cn/ )  <br/>
 [ 最新 Langchain1.0 入门 - YouTube ]( https://www.youtube.com/watch?v=gqKTSBGZE-g&list=PLXiXcDkQM7PsbNB5fvR5g7qEYqoOOnjQj&index=1 )  <br/>
 [ AI Agent开发零基础教程，2026最新版-B站 ]( https://www.bilibili.com/video/BV1xwVr6FEh4/?spm_id_from=333.337.search-card.all.click&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )  <br/>
+[ 【全500集】全B站最详细【Agent应用开发】-B站 ]( https://www.bilibili.com/video/BV12Jh763Egy/?spm_id_from=333.788.player.switch&vd_source=bc5bee468c2cbda6193e66c4288c8c7b&p=3 )  <br/>
